@@ -67,9 +67,12 @@ A personal digital garden blending 3D visuals, technical writing, and poetry. Bu
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=QwQBiG&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=DB2777&icon_color=8B5CF6&text_color=64748B" alt="QwQBiG GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QwQBiG&layout=compact&hide_border=true&theme=transparent&title_color=DB2777&text_color=64748B&langs_count=8" alt="Most used languages" />
-
+<img height="165"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=QwQBiG&theme=transparent"
+  alt="Languages by repository" />
+<img height="165"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=QwQBiG&theme=transparent"
+  alt="Languages by commits" />
 <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QwQBiG&theme=transparent" alt="Contribution overview" />
 
 </div>
