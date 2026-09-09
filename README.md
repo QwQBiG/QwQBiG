@@ -32,18 +32,11 @@ I enjoy building reliable systems and interfaces with a little personality — f
 
 </td>
 <td width="35%" valign="top" align="center">
-  <a href="https://iqwqi.win">
-    <img src="assets/oc-idle.svg" width="270" alt="Meet my OC — click to visit iqwqi.win" />
-  </a>
+  <picture>
+    <img src="assets/oc-moods.svg" width="270" alt="My OC in a white shirt and violet bow, gently floating through calm, happy, and shy expressions" />
+  </picture>
   <br />
-  <sub>Click her · Visit my world ↗</sub>
-  <br /><br />
-  <details>
-    <summary>✦ Poke me</summary>
-    <br />
-    <img src="assets/oc-happy.svg" width="250" alt="A happy hello from my OC" />
-    <p><sub>A little happiness, just for you.</sub></p>
-  </details>
+  <sub>A little company, a little daydream.</sub>
 </td>
 </tr>
 </table>
