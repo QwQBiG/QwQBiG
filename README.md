@@ -1,92 +1,158 @@
-<div align="center">
+<p align="center">
+  <img src="assets/orbit-header.svg" width="100%" alt="QwQBiG · Code, curiosity and a little magic" />
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:7C3AED,50:DB2777,100:0EA5E9&text=Hi,%20I'm%20QwQBiG&fontColor=ffffff&fontSize=48&fontAlignY=35&desc=Local-first%20AI%20%C2%B7%20Full-stack%20Systems%20%C2%B7%20Creative%20Developer&descAlignY=57&animation=fadeIn" alt="QwQBiG profile banner" />
+<p align="center">
+  <a href="https://iqwqi.win">My Website</a> &nbsp; / &nbsp;
+  <a href="https://leetcode.cn/u/iqwqi/">LeetCode</a> &nbsp; / &nbsp;
+  <a href="https://space.bilibili.com/3546921071282890">Bilibili</a>
+</p>
 
-<a href="https://iqwqi.win"><img src="https://img.shields.io/badge/Blog-iqwqi.win-DB2777?style=for-the-badge&logo=astro&logoColor=white" alt="Blog" /></a>
-<a href="https://github.com/QwQBiG"><img src="https://img.shields.io/badge/GitHub-QwQBiG-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://leetcode.cn/u/iqwqi/"><img src="https://img.shields.io/badge/LeetCode-iqwqi-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-<a href="https://space.bilibili.com/3546921071282890"><img src="https://img.shields.io/badge/Bilibili-iqwqi-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" /></a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=DB2777&center=true&vCenter=true&repeat=true&width=760&lines=Building+AI+that+runs+close+to+the+user;Turning+ideas+into+reliable+end-to-end+systems;Code%2C+design%2C+operations+%E2%80%94+I+enjoy+the+whole+stack" alt="Typing introduction" />
-
-</div>
-
-## About me
-
-I like turning ideas into products that run reliably, feel thoughtful, and are worth maintaining.
-My current interests sit at the intersection of **local-first AI, agent runtimes, computer vision, and cloud-native operations**.
-
-- 🔭 Building safe, observable, and interruptible local AI systems
-- 🌱 Exploring Rust systems design, on-device intelligence, and reliability engineering
-- 🧩 Enjoying the full journey from architecture and APIs to the final interface
-- ✍️ Writing about technology and creative work at [iqwqi.win](https://iqwqi.win)
-
-## Selected work
+<br />
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="65%" valign="top">
 
-### [AIex](https://github.com/QwQBiG/AIA)
+### ☾ Hi, I'm QwQBiG
 
-A Windows-first, Rust-first local AI VTuber runtime. It combines streaming LLMs, persistent memory, voice queues, VTube Studio control, full-duplex input, and safety auditing.
+<img src="assets/intro-type.svg" width="520" alt="Building useful little things. From systems to playful pixels. Open source, always in motion." />
 
-`Rust` `LLM` `WebSocket` `Audio` `Local-first`
+You can also call me **iqwqi**. Welcome to my little corner of the universe.
+
+I enjoy building reliable systems and interfaces with a little personality — from the first idea to the last pixel.
+
+**Full Stack · Rust · Kotlin · Creative Web**
+
+<p>
+  <a href="https://github.com/apache/asyncband"><img src="assets/apache-mark.svg" width="38" height="48" align="left" alt="Apache logo" /></a>
+  <strong><a href="https://github.com/apache/asyncband">Apache Asyncband</a></strong> &nbsp; <code>ing...</code><br />
+  <sub>Incubating · Async Rust, in good company.</sub>
+</p>
 
 </td>
-<td width="33%" valign="top">
-
-### [XianGeCe](https://github.com/QwQBiG/XianGeCe)
-
-A local-first campus companion for students: schedules, tasks, lecture transcription, offline OCR, reminders, backups, and optional AI enhancements—without requiring an account.
-
-`Kotlin` `Jetpack Compose` `Room` `ONNX Runtime`
-
-</td>
-<td width="33%" valign="top">
-
-### [iqwqi.win](https://github.com/QwQBiG/QwQBiG.github.io)
-
-A personal digital garden blending 3D visuals, technical writing, and poetry. Built to balance expressive interaction with a fast, content-focused reading experience.
-
-`Astro` `React` `TypeScript` `Three.js` `Tailwind CSS`
-
+<td width="35%" valign="top" align="center">
+  <a href="https://iqwqi.win">
+    <img src="assets/oc-idle.svg" width="270" alt="Meet my OC — click to visit iqwqi.win" />
+  </a>
+  <br />
+  <sub>Click her · Visit my world ↗</sub>
+  <br /><br />
+  <details>
+    <summary>✦ Poke me</summary>
+    <br />
+    <img src="assets/oc-happy.svg" width="250" alt="A happy hello from my OC" />
+    <p><sub>A little happiness, just for you.</sub></p>
+  </details>
 </td>
 </tr>
 </table>
 
-## Toolbox
+<br />
+
+### ✧ Selected Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+  <sub>01 / MOBILE</sub>
+  <h3><a href="https://github.com/QwQBiG/XianGeCe">XianGeCe &#8599;&#65038;</a></h3>
+  <p>A local-first campus companion for schedules, tasks, notes, and everyday student life.</p>
+  <p><img src="assets/icons/kotlin.svg" width="24" height="24" alt="Kotlin" title="Kotlin" /> &nbsp; <img src="assets/icons/sqlite.svg" width="24" height="24" alt="SQLite, used through Room" title="SQLite / Room" /></p>
+</td>
+<td width="50%" valign="top">
+  <sub>02 / CREATIVE WEB</sub>
+  <h3><a href="https://iqwqi.win">iqwqi.win &#8599;&#65038;</a></h3>
+  <p>My personal corner of the web for writing, playful visuals, and things I build.</p>
+  <p><img src="assets/icons/astro.svg" width="24" height="24" alt="Astro" title="Astro" /> &nbsp; <img src="assets/icons/react.svg" width="24" height="24" alt="React" title="React" /> &nbsp; <img src="assets/icons/ts.svg" width="24" height="24" alt="TypeScript" title="TypeScript" /> &nbsp; <img src="assets/icons/threejs.svg" width="24" height="24" alt="Three.js" title="Three.js" /></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <sub>03 / COMPUTER VISION</sub>
+  <h3><a href="https://github.com/QwQBiG/bee_project">Bee Vision &#8599;&#65038;</a></h3>
+  <p>Bee detection, tracking, and behavior reports for videos inside and outside the hive.</p>
+  <p><img src="assets/icons/python.svg" width="24" height="24" alt="Python" title="Python" /> &nbsp; <img src="assets/icons/opencv.svg" width="24" height="24" alt="OpenCV" title="OpenCV" /></p>
+</td>
+<td width="50%" valign="top">
+  <sub>04 / OPERATIONS</sub>
+  <h3><a href="https://github.com/QwQBiG/qwq-ops">qwq-ops &#8599;&#65038;</a></h3>
+  <p>A Kubernetes setup with observability, dashboards, and GitOps deployment workflows.</p>
+  <p><img src="assets/icons/docker.svg" width="24" height="24" alt="Docker" title="Docker" /> &nbsp; <img src="assets/icons/kubernetes.svg" width="24" height="24" alt="Kubernetes" title="Kubernetes" /> &nbsp; <img src="assets/icons/grafana.svg" width="24" height="24" alt="Grafana" title="Grafana" /> &nbsp; <img src="assets/icons/git.svg" width="24" height="24" alt="Git" title="Git" /></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <sub>05 / RUST NOTES</sub>
+  <h3><a href="https://github.com/QwQBiG/Go-learn-Rust">Go-learn-Rust &#8599;&#65038;</a></h3>
+  <p>Runnable Rust notes, from ownership and lifetimes to async futures and custom timers.</p>
+  <p><img src="assets/icons/rust.svg" width="24" height="24" alt="Rust" title="Rust" /></p>
+</td>
+<td width="50%" valign="top">
+  <sub>06 / EXPERIMENTS</sub>
+  <h3><a href="https://github.com/QwQBiG/MyWork">MyWork &#8599;&#65038;</a></h3>
+  <p>Coursework, experiments, and notes from my undergraduate projects.</p>
+  <p><img src="assets/icons/c.svg" width="24" height="24" alt="C" title="C" /> &nbsp; <img src="assets/icons/cpp.svg" width="24" height="24" alt="C++" title="C++" /> &nbsp; <img src="assets/icons/mysql.svg" width="24" height="24" alt="MySQL" title="MySQL" /></p>
+</td>
+</tr>
+</table>
+
+<p align="right"><a href="https://github.com/QwQBiG?tab=repositories">Explore all repositories ↗</a></p>
+
+### ⌘ My Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,kotlin,python,go,ts,cpp,astro,react,vue,fastapi,docker,kubernetes,prometheus,grafana,git,github&perline=8" alt="Technology stack" />
+  <sub>LANGUAGES</sub><br /><br />
+  <img src="assets/icons/rust.svg" width="32" height="32" alt="Rust" title="Rust" /> &nbsp;
+  <img src="assets/icons/kotlin.svg" width="32" height="32" alt="Kotlin" title="Kotlin" /> &nbsp;
+  <img src="assets/icons/python.svg" width="32" height="32" alt="Python" title="Python" /> &nbsp;
+  <img src="assets/icons/ts.svg" width="32" height="32" alt="TypeScript" title="TypeScript" /> &nbsp;
+  <img src="assets/icons/c.svg" width="32" height="32" alt="C" title="C" /> &nbsp;
+  <img src="assets/icons/cpp.svg" width="32" height="32" alt="C++" title="C++" />
 </p>
 
-## GitHub activity
+<p align="center">
+  <sub>WEB &amp; MOBILE</sub><br /><br />
+  <img src="assets/icons/astro.svg" width="32" height="32" alt="Astro" title="Astro" /> &nbsp;
+  <img src="assets/icons/react.svg" width="32" height="32" alt="React" title="React" /> &nbsp;
+  <img src="assets/icons/threejs.svg" width="32" height="32" alt="Three.js" title="Three.js" /> &nbsp;
+  <img src="assets/icons/android.svg" width="32" height="32" alt="Android Studio" title="Android Studio" />
+</p>
 
-<div align="center">
+<p align="center">
+  <sub>TOOLS &amp; DATA</sub><br /><br />
+  <img src="assets/icons/docker.svg" width="32" height="32" alt="Docker" title="Docker" /> &nbsp;
+  <img src="assets/icons/kubernetes.svg" width="32" height="32" alt="Kubernetes" title="Kubernetes" /> &nbsp;
+  <img src="assets/icons/grafana.svg" width="32" height="32" alt="Grafana" title="Grafana" /> &nbsp;
+  <img src="assets/icons/git.svg" width="32" height="32" alt="Git" title="Git" /> &nbsp;
+  <img src="assets/icons/opencv.svg" width="32" height="32" alt="OpenCV" title="OpenCV" /> &nbsp;
+  <img src="assets/icons/sqlite.svg" width="32" height="32" alt="SQLite" title="SQLite" /> &nbsp;
+  <img src="assets/icons/mysql.svg" width="32" height="32" alt="MySQL" title="MySQL" />
+</p>
 
-<img height="165"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=QwQBiG&theme=transparent"
-  alt="Languages by repository" />
-<img height="165"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=QwQBiG&theme=transparent"
-  alt="Languages by commits" />
-<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QwQBiG&theme=transparent" alt="Contribution overview" />
+### ◌ Language Mix
 
-</div>
+<p align="center">
+  <a href="https://github.com/QwQBiG?tab=repositories">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=QwQBiG&amp;theme=tokyonight&amp;animation=load&amp;duration=3&amp;bg_color=211e35&amp;title_color=bca9e8&amp;text_color=c9c3db&amp;border_color=302740" width="420" alt="Animated donut showing the top five languages by public, non-fork repository count" />
+  </a><br />
+  <sub>Top 5 languages by repository · Public, non-fork repositories.</sub>
+</p>
 
----
+<br />
 
-<div align="center">
+<details>
+  <summary>⌁ A little GitHub activity</summary>
+  <br />
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QwQBiG&theme=transparent" width="100%" alt="QwQBiG's GitHub contribution overview" />
+  </p>
+</details>
 
-### Build things that feel useful, thoughtful, and alive.
+<br />
 
-<sub>Thanks for stopping by. If you are building something interesting in AI, open source, or product engineering, feel free to say hello.</sub>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=QwQBiG&style=flat-square&color=DB2777&label=PROFILE+VIEWS" alt="Profile views" />
-
-</div>
+<p align="center">
+  <sub>Stay curious. Make something lovely. Thanks for stopping by.</sub>
+  <br /><br />
+  <img src="https://komarev.com/ghpvc/?username=QwQBiG&style=flat-square&color=DB2777&label=PROFILE+VIEWS" alt="Profile views" />
+</p>

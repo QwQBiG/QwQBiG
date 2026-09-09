@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="190" viewBox="0 0 960 190" role="img" aria-labelledby="title description">
+  <title id="title">QwQBiG — a little corner of the universe</title>
+  <desc id="description">A violet night sky, delicate moving orbits, a glass moon, and the words Code, curiosity &amp; a little magic.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#181a2d"/>
+      <stop offset=".54" stop-color="#211e35"/>
+      <stop offset="1" stop-color="#302740"/>
+    </linearGradient>
+    <linearGradient id="border" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#9795bd" stop-opacity=".52"/>
+      <stop offset=".5" stop-color="#8d80b1" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#b6a7d0" stop-opacity=".46"/>
+    </linearGradient>
+    <radialGradient id="nebula">
+      <stop stop-color="#a896d8" stop-opacity=".16"/>
+      <stop offset="1" stop-color="#a896d8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="moon" cx=".28" cy=".2" r=".86">
+      <stop stop-color="#e5e9fa" stop-opacity=".94"/>
+      <stop offset=".26" stop-color="#b7b6d9" stop-opacity=".73"/>
+      <stop offset=".64" stop-color="#9182b6" stop-opacity=".34"/>
+      <stop offset="1" stop-color="#82759e" stop-opacity=".08"/>
+    </radialGradient>
+    <linearGradient id="rim" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#f0f1ff" stop-opacity=".84"/>
+      <stop offset=".5" stop-color="#b9b3d8" stop-opacity=".08"/>
+      <stop offset="1" stop-color="#b9b3d8" stop-opacity=".6"/>
+    </linearGradient>
+    <linearGradient id="comet" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#dbd6fb" stop-opacity="0"/>
+      <stop offset="1" stop-color="#e0ddff" stop-opacity=".95"/>
+    </linearGradient>
+    <clipPath id="bounds"><rect x="1" y="1" width="958" height="188" rx="22"/></clipPath>
+    <clipPath id="sphere"><circle cx="796" cy="96" r="48"/></clipPath>
+  </defs>
+  <style>
+    text { font-family: 'Segoe UI', Helvetica, Arial, sans-serif; }
+    .orbit { transform-origin: 796px 96px; animation: orbit 64s linear infinite; }
+    .star { animation: twinkle 5s ease-in-out infinite alternate; }
+    .late { animation-delay: -2.8s; }
+    .comet { animation: passing 11s ease-out infinite; }
+    @keyframes orbit { to { transform: rotate(360deg); } }
+    @keyframes twinkle { from { opacity: .3; } to { opacity: .95; } }
+    @keyframes passing {
+      0%, 62% { opacity: 0; transform: translate(0,0); }
+      65% { opacity: .8; }
+      78% { opacity: 0; transform: translate(100px,48px); }
+      100% { opacity: 0; transform: translate(100px,48px); }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .orbit, .star, .comet { animation: none; }
+      .comet { opacity: 0; }
+    }
+  </style>
+  <rect x=".5" y=".5" width="959" height="189" rx="22" fill="url(#panel)" stroke="url(#border)"/>
+  <g clip-path="url(#bounds)">
+    <ellipse cx="801" cy="80" rx="250" ry="165" fill="url(#nebula)"/>
+    <path d="M581 190C620 76 735 0 959 20M542 190C617 18 823-28 960 4" fill="none" stroke="#a59ec5" stroke-opacity=".09"/>
+    <path d="M31 45V31H45M915 159H929V145" fill="none" stroke="#b9b4d4" stroke-opacity=".42"/>
+    <g fill="#b9b7d7">
+      <circle cx="524" cy="35" r="1" opacity=".46"/>
+      <circle cx="652" cy="133" r="1.2" opacity=".4"/>
+      <circle cx="901" cy="36" r="1.1" opacity=".6"/>
+      <circle cx="916" cy="115" r=".8" opacity=".52"/>
+      <circle cx="702" cy="31" r=".8" opacity=".6"/>
+      <circle cx="610" cy="83" r=".8" opacity=".43"/>
+      <circle cx="873" cy="164" r="1" opacity=".42"/>
+    </g>
+    <g class="star" fill="none" stroke="#d5d1ea" stroke-width="1">
+      <path d="M626 36V46M621 41H631"/>
+      <path d="M879 81V89M875 85H883"/>
+    </g>
+    <g class="star late" fill="#d9d5f0">
+      <path d="m716 151 1.4 3.6 3.6 1.4-3.6 1.4-1.4 3.6-1.4-3.6-3.6-1.4 3.6-1.4z"/>
+      <circle cx="849" cy="25" r="1.7"/>
+    </g>
+    <g class="comet" opacity="0">
+      <path d="m588 14 50 24" fill="none" stroke="url(#comet)" stroke-width="1.3" stroke-linecap="round"/>
+      <circle cx="638" cy="38" r="1.3" fill="#f0ebff"/>
+    </g>
+    <g class="orbit" fill="none" stroke="#b3a7d0">
+      <ellipse cx="796" cy="96" rx="100" ry="31" transform="rotate(-24 796 96)" stroke-opacity=".26"/>
+      <ellipse cx="796" cy="96" rx="79" ry="64" transform="rotate(28 796 96)" stroke-opacity=".13" stroke-dasharray="2 8"/>
+      <circle cx="887.35" cy="55.33" r="3" fill="#c8bddf" stroke="#252238" stroke-width="2"/>
+      <circle cx="735" cy="118" r="2" fill="#b2bddc" stroke="none"/>
+    </g>
+    <circle cx="796" cy="96" r="48" fill="url(#moon)" stroke="url(#rim)" stroke-width=".9"/>
+    <g clip-path="url(#sphere)" fill="none" stroke="#e3dff4">
+      <ellipse cx="773" cy="69" rx="53" ry="44" stroke-opacity=".13" transform="rotate(-28 773 69)"/>
+      <ellipse cx="795" cy="98" rx="21" ry="53" stroke-opacity=".08" transform="rotate(-29 795 98)"/>
+      <path d="M755 79C766 59 788 50 807 57" stroke-opacity=".52" stroke-linecap="round"/>
+    </g>
+    <path d="M707 126C747 134 814 117 863 88" fill="none" stroke="#c4badf" stroke-opacity=".35" stroke-width=".8"/>
+    <text x="65" y="47" fill="#aaa6c1" font-size="10" letter-spacing="3.1">MY LITTLE CORNER OF THE UNIVERSE</text>
+    <text x="62" y="110" fill="#f2efff" font-size="51" font-weight="650" letter-spacing="-1.7">QwQBiG</text>
+    <text x="65" y="141" fill="#c6c2d8" font-size="16" letter-spacing=".35">Code, curiosity &amp; a little magic.</text>
+    <path d="M65 162H97" stroke="#a99bc6" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="105" cy="162" r="1.4" fill="#a99bc6" opacity=".7"/>
+    <circle cx="112" cy="162" r="1.4" fill="#a99bc6" opacity=".35"/>
+  </g>
+</svg>

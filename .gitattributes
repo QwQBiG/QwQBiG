@@ -1,0 +1,7 @@
+# Text files use UTF-8 and LF on Windows and Linux.
+* text=auto
+.gitattributes text eol=lf working-tree-encoding=UTF-8
+*.md text eol=lf working-tree-encoding=UTF-8
+*.svg text eol=lf working-tree-encoding=UTF-8
+LICENSE text eol=lf working-tree-encoding=UTF-8
+*.png binary
