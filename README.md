@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://iqwqi.win">My Website</a> &nbsp; / &nbsp;
-  <a href="https://leetcode.cn/u/iqwqi/">LeetCode</a> &nbsp; / &nbsp;
-  <a href="https://space.bilibili.com/3546921071282890">Bilibili</a>
+  <a href="https://iqwqi.win"><img src="assets/link-website.svg" width="120" height="38" alt="My Website" /></a>
+  <a href="https://leetcode.cn/u/iqwqi/"><img src="assets/link-leetcode.svg" width="108" height="38" alt="LeetCode" /></a>
+  <a href="https://space.bilibili.com/3546921071282890"><img src="assets/link-bilibili.svg" width="100" height="38" alt="Bilibili" /></a>
 </p>
 
 <br />

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="38" viewBox="0 0 120 38" role="img" aria-labelledby="title">
+  <title id="title">My Website</title>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#322946"/><stop offset="1" stop-color="#211e33"/></linearGradient></defs>
+  <rect x=".5" y="1.5" width="119" height="35" rx="17.5" fill="url(#bg)" stroke="#67547f"/>
+  <path d="M20 2h80" stroke="#d8c4f2" stroke-opacity=".2"/>
+  <g transform="translate(13 11)" fill="none" stroke="#d2b7f1" stroke-width="1.25" stroke-linecap="round">
+    <circle cx="8" cy="8" r="6.5"/><ellipse cx="8" cy="8" rx="2.7" ry="6.5"/><path d="M1.5 8h13"/>
+  </g>
+  <text x="37" y="23.2" fill="#f3edf9" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="600">My Website</text>
+  <path d="M104 22l5-5m-4 0h4v4" fill="none" stroke="#b79bcc" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
