@@ -33,10 +33,8 @@ I enjoy building reliable systems and interfaces with a little personality — f
 </td>
 <td width="35%" valign="top" align="center">
   <picture>
-    <img src="assets/oc-moods.svg" width="270" alt="My OC in a white shirt and violet bow, gently floating through calm, happy, and shy expressions" />
+    <img src="assets/oc-campus.svg" width="290" alt="My modern academy OC in complete waist-up poses: waving hello, reading, and celebrating" />
   </picture>
-  <br />
-  <sub>A little company, a little daydream.</sub>
 </td>
 </tr>
 </table>
