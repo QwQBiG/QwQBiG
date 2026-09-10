@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="44" viewBox="0 0 32 44">
+  <title>A colorful language orbit</title>
+  <style>
+    :root{color-scheme:light dark;--panel:#f3edfc;--edge:#dfd0ef;--ink:#9468bf}
+    @media(prefers-color-scheme:dark){:root{--panel:#292237;--edge:#58436d;--ink:#ceb2ed}}
+    .ring{transform-origin:16px 16px;animation:orbit 14s linear infinite}.core{animation:pulse 3.5s ease-in-out infinite}
+    @keyframes orbit{to{transform:rotate(360deg)}}
+    @keyframes pulse{0%,100%{opacity:.4}50%{opacity:1}}
+    @media(prefers-reduced-motion:reduce){.ring,.core{animation:none}}
+  </style>
+  <rect x="1" y="1" width="30" height="30" rx="10" fill="var(--panel)" stroke="var(--edge)"/>
+  <g class="ring" fill="none" stroke-width="3.2" stroke-linecap="round">
+    <path d="M16 7a9 9 0 0 1 8.56 11.78" stroke="var(--ink)"/>
+    <path d="M22.36 22.36A9 9 0 0 1 8.21 20.5" stroke="#ce92ba"/>
+    <path d="M7.14 14.44a9 9 0 0 1 4.36-6.23" stroke="#8aabc7"/>
+  </g>
+  <circle class="core" cx="16" cy="16" r="2.3" fill="var(--ink)"/>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="44" viewBox="0 0 32 44">
+  <title>A little wave</title>
+  <style>
+    :root{color-scheme:light dark;--panel:#f3edfc;--edge:#dfd0ef;--ink:#9162b8;--hand:#dfcaf2}
+    @media(prefers-color-scheme:dark){:root{--panel:#292237;--edge:#58436d;--ink:#ddc0f4;--hand:#8461a2}}
+    .wave{transform-origin:16px 25px;animation:wave 4.5s ease-in-out infinite}.spark{animation:shine 4.5s ease-in-out infinite}
+    @keyframes wave{0%,48%,100%{transform:rotate(0)}10%,30%{transform:rotate(13deg)}20%,40%{transform:rotate(-9deg)}}
+    @keyframes shine{0%,48%,100%{opacity:.35}20%,35%{opacity:1}}
+    @media(prefers-reduced-motion:reduce){.wave,.spark{animation:none}}
+  </style>
+  <rect x="1" y="1" width="30" height="30" rx="10" fill="var(--panel)" stroke="var(--edge)"/>
+  <g class="wave" fill="var(--hand)" stroke="var(--ink)" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M11 22l-4-5q-.8-1 .2-1.7.8-.6 1.7.3L11 18V9q0-2 2-2v8-9q0-2 2-1v10-8q0-2 2-1v10-5q0-2 2-1v9q0 7-4 7-2.5 0-4-3Z"/>
+    <path d="M11 18q3-2 4 2" fill="none"/>
+  </g>
+  <path class="spark" d="M24 6v5m-2.5-2.5h5M25 16l1.5 1" stroke="#c997ca" stroke-width="1.2" stroke-linecap="round"/>
+</svg>

@@ -14,7 +14,7 @@
 <tr>
 <td width="65%" valign="top">
 
-### ☾ Hi, I'm QwQBiG
+### <picture><img src="assets/heading-hello.svg" width="28" height="38" align="center" alt="" /></picture> Hi, I'm QwQBiG
 
 <img src="assets/intro-type.svg" width="520" alt="Building useful little things. From systems to playful pixels. Open source, always in motion." />
 
@@ -41,7 +41,7 @@ I enjoy building reliable systems and interfaces with a little personality — f
 
 <br />
 
-### ✧ Selected Work
+### <picture><img src="assets/heading-work.svg" width="28" height="38" align="center" alt="" /></picture> Selected Work
 
 <table>
 <tr>
@@ -90,7 +90,7 @@ I enjoy building reliable systems and interfaces with a little personality — f
 
 <p align="right"><a href="https://github.com/QwQBiG?tab=repositories">Explore all repositories ↗</a></p>
 
-### ⌘ My Stack
+### <picture><img src="assets/heading-stack.svg" width="28" height="38" align="center" alt="" /></picture> My Stack
 
 <p align="center">
   <sub>LANGUAGES</sub><br /><br />
@@ -121,7 +121,7 @@ I enjoy building reliable systems and interfaces with a little personality — f
   <img src="assets/icons/mysql.svg" width="32" height="32" alt="MySQL" title="MySQL" />
 </p>
 
-### ◌ Language Mix
+### <picture><img src="assets/heading-languages.svg" width="28" height="38" align="center" alt="" /></picture> Language Mix
 
 <p align="center">
   <a href="https://github.com/QwQBiG?tab=repositories">
@@ -133,7 +133,7 @@ I enjoy building reliable systems and interfaces with a little personality — f
 <br />
 
 <details>
-  <summary>⌁ A little GitHub activity</summary>
+  <summary><picture><img src="assets/heading-activity.svg" width="28" height="38" align="center" alt="" /></picture> A little GitHub activity</summary>
   <br />
   <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QwQBiG&theme=transparent" width="100%" alt="QwQBiG's GitHub contribution overview" />
