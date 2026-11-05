@@ -41,84 +41,78 @@ I enjoy building reliable systems and interfaces with a little personality — f
 
 <br />
 
-### <picture><img src="assets/heading-work.svg" width="28" height="38" align="center" alt="" /></picture> Selected Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-  <sub>01 / MOBILE</sub>
-  <h3><a href="https://github.com/QwQBiG/XianGeCe">XianGeCe &#8599;&#65038;</a></h3>
-  <p>A local-first campus companion for schedules, tasks, notes, and everyday student life.</p>
-  <p><img src="assets/icons/kotlin.svg" width="24" height="24" alt="Kotlin" title="Kotlin" /> &nbsp; <img src="assets/icons/sqlite.svg" width="24" height="24" alt="SQLite, used through Room" title="SQLite / Room" /></p>
-</td>
-<td width="50%" valign="top">
-  <sub>02 / CREATIVE WEB</sub>
-  <h3><a href="https://iqwqi.win">iqwqi.win &#8599;&#65038;</a></h3>
-  <p>My personal corner of the web for writing, playful visuals, and things I build.</p>
-  <p><img src="assets/icons/astro.svg" width="24" height="24" alt="Astro" title="Astro" /> &nbsp; <img src="assets/icons/react.svg" width="24" height="24" alt="React" title="React" /> &nbsp; <img src="assets/icons/ts.svg" width="24" height="24" alt="TypeScript" title="TypeScript" /> &nbsp; <img src="assets/icons/threejs.svg" width="24" height="24" alt="Three.js" title="Three.js" /></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-  <sub>03 / COMPUTER VISION</sub>
-  <h3><a href="https://github.com/QwQBiG/bee_project">Bee Vision &#8599;&#65038;</a></h3>
-  <p>Bee detection, tracking, and behavior reports for videos inside and outside the hive.</p>
-  <p><img src="assets/icons/python.svg" width="24" height="24" alt="Python" title="Python" /> &nbsp; <img src="assets/icons/opencv.svg" width="24" height="24" alt="OpenCV" title="OpenCV" /></p>
-</td>
-<td width="50%" valign="top">
-  <sub>04 / OPERATIONS</sub>
-  <h3><a href="https://github.com/QwQBiG/qwq-ops">qwq-ops &#8599;&#65038;</a></h3>
-  <p>A Kubernetes setup with observability, dashboards, and GitOps deployment workflows.</p>
-  <p><img src="assets/icons/docker.svg" width="24" height="24" alt="Docker" title="Docker" /> &nbsp; <img src="assets/icons/kubernetes.svg" width="24" height="24" alt="Kubernetes" title="Kubernetes" /> &nbsp; <img src="assets/icons/grafana.svg" width="24" height="24" alt="Grafana" title="Grafana" /> &nbsp; <img src="assets/icons/git.svg" width="24" height="24" alt="Git" title="Git" /></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-  <sub>05 / RUST NOTES</sub>
-  <h3><a href="https://github.com/QwQBiG/Go-learn-Rust">Go-learn-Rust &#8599;&#65038;</a></h3>
-  <p>Runnable Rust notes, from ownership and lifetimes to async futures and custom timers.</p>
-  <p><img src="assets/icons/rust.svg" width="24" height="24" alt="Rust" title="Rust" /></p>
-</td>
-<td width="50%" valign="top">
-  <sub>06 / EXPERIMENTS</sub>
-  <h3><a href="https://github.com/QwQBiG/MyWork">MyWork &#8599;&#65038;</a></h3>
-  <p>Coursework, experiments, and notes from my undergraduate projects.</p>
-  <p><img src="assets/icons/c.svg" width="24" height="24" alt="C" title="C" /> &nbsp; <img src="assets/icons/cpp.svg" width="24" height="24" alt="C++" title="C++" /> &nbsp; <img src="assets/icons/mysql.svg" width="24" height="24" alt="MySQL" title="MySQL" /></p>
-</td>
-</tr>
-</table>
-
-<p align="right"><a href="https://github.com/QwQBiG?tab=repositories">Explore all repositories ↗</a></p>
-
 ### <picture><img src="assets/heading-stack.svg" width="28" height="38" align="center" alt="" /></picture> My Stack
 
 <p align="center">
   <sub>LANGUAGES</sub><br /><br />
   <img src="assets/icons/rust.svg" width="32" height="32" alt="Rust" title="Rust" /> &nbsp;
   <img src="assets/icons/kotlin.svg" width="32" height="32" alt="Kotlin" title="Kotlin" /> &nbsp;
+  <img src="assets/icons/go.svg" width="32" height="32" alt="Go" title="Go" /> &nbsp;
+  <img src="assets/icons/zig.svg" width="32" height="32" alt="Zig" title="Zig" /> &nbsp;
   <img src="assets/icons/python.svg" width="32" height="32" alt="Python" title="Python" /> &nbsp;
   <img src="assets/icons/ts.svg" width="32" height="32" alt="TypeScript" title="TypeScript" /> &nbsp;
+  <img src="assets/icons/js.svg" width="32" height="32" alt="JavaScript" title="JavaScript" /> &nbsp;
   <img src="assets/icons/c.svg" width="32" height="32" alt="C" title="C" /> &nbsp;
-  <img src="assets/icons/cpp.svg" width="32" height="32" alt="C++" title="C++" />
+  <img src="assets/icons/cpp.svg" width="32" height="32" alt="C++" title="C++" /> &nbsp;
+  <img src="assets/icons/bash.svg" width="32" height="32" alt="Bash" title="Bash" />
+  <br /><br />
+  <sub>Rust · Kotlin · Go · Zig · Python · TypeScript · JavaScript · C / C++ · Bash</sub>
 </p>
 
 <p align="center">
-  <sub>WEB &amp; MOBILE</sub><br /><br />
+  <sub>WEB &amp; CREATIVE CODING</sub><br /><br />
   <img src="assets/icons/astro.svg" width="32" height="32" alt="Astro" title="Astro" /> &nbsp;
   <img src="assets/icons/react.svg" width="32" height="32" alt="React" title="React" /> &nbsp;
-  <img src="assets/icons/threejs.svg" width="32" height="32" alt="Three.js" title="Three.js" /> &nbsp;
-  <img src="assets/icons/android.svg" width="32" height="32" alt="Android Studio" title="Android Studio" />
+  <img src="assets/icons/vue.svg" width="32" height="32" alt="Vue" title="Vue" /> &nbsp;
+  <img src="assets/icons/html.svg" width="32" height="32" alt="HTML" title="HTML" /> &nbsp;
+  <img src="assets/icons/css.svg" width="32" height="32" alt="CSS" title="CSS" /> &nbsp;
+  <img src="assets/icons/tailwind.svg" width="32" height="32" alt="Tailwind CSS" title="Tailwind CSS" /> &nbsp;
+  <img src="assets/icons/vite.svg" width="32" height="32" alt="Vite" title="Vite" /> &nbsp;
+  <img src="assets/icons/threejs.svg" width="32" height="32" alt="Three.js" title="Three.js" />
+  <br /><br />
+  <sub>Astro · React · Vue · Tailwind CSS · Vite · Three.js<br />GSAP · Motion · Lenis · React Three Fiber · Canvas 2D · WebAssembly</sub>
 </p>
 
 <p align="center">
-  <sub>TOOLS &amp; DATA</sub><br /><br />
+  <sub>ANDROID</sub><br /><br />
+  <img src="assets/icons/android.svg" width="32" height="32" alt="Android Studio" title="Android Studio" /> &nbsp;
+  <img src="assets/icons/kotlin.svg" width="32" height="32" alt="Kotlin" title="Kotlin" /> &nbsp;
+  <img src="assets/icons/gradle.svg" width="32" height="32" alt="Gradle" title="Gradle" />
+  <br /><br />
+  <sub>Jetpack Compose · Material 3 · Room · DataStore · Hilt · Kotlin Coroutines</sub>
+</p>
+
+<p align="center">
+  <sub>RUNTIMES &amp; BACKEND</sub><br /><br />
+  <img src="assets/icons/rust.svg" width="32" height="32" alt="Rust" title="Rust" /> &nbsp;
+  <img src="assets/icons/go.svg" width="32" height="32" alt="Go" title="Go" /> &nbsp;
+  <img src="assets/icons/nodejs.svg" width="32" height="32" alt="Node.js" title="Node.js" />
+  <br /><br />
+  <sub>Tokio · Gin · GORM · Node.js · pnpm · esbuild</sub>
+</p>
+
+<p align="center">
+  <sub>AI &amp; COMPUTER VISION</sub><br /><br />
+  <img src="assets/icons/python.svg" width="32" height="32" alt="Python" title="Python" /> &nbsp;
+  <img src="assets/icons/pytorch.svg" width="32" height="32" alt="PyTorch" title="PyTorch" /> &nbsp;
+  <img src="assets/icons/opencv.svg" width="32" height="32" alt="OpenCV" title="OpenCV" />
+  <br /><br />
+  <sub>PyTorch · OpenCV · Ultralytics / YOLO · ONNX Runtime · Ollama</sub>
+</p>
+
+<p align="center">
+  <sub>INFRASTRUCTURE &amp; DATA</sub><br /><br />
   <img src="assets/icons/docker.svg" width="32" height="32" alt="Docker" title="Docker" /> &nbsp;
   <img src="assets/icons/kubernetes.svg" width="32" height="32" alt="Kubernetes" title="Kubernetes" /> &nbsp;
+  <img src="assets/icons/prometheus.svg" width="32" height="32" alt="Prometheus" title="Prometheus" /> &nbsp;
   <img src="assets/icons/grafana.svg" width="32" height="32" alt="Grafana" title="Grafana" /> &nbsp;
   <img src="assets/icons/git.svg" width="32" height="32" alt="Git" title="Git" /> &nbsp;
-  <img src="assets/icons/opencv.svg" width="32" height="32" alt="OpenCV" title="OpenCV" /> &nbsp;
+  <img src="assets/icons/postgresql.svg" width="32" height="32" alt="PostgreSQL" title="PostgreSQL" /> &nbsp;
   <img src="assets/icons/sqlite.svg" width="32" height="32" alt="SQLite" title="SQLite" /> &nbsp;
-  <img src="assets/icons/mysql.svg" width="32" height="32" alt="MySQL" title="MySQL" />
+  <img src="assets/icons/mysql.svg" width="32" height="32" alt="MySQL" title="MySQL" /> &nbsp;
+  <img src="assets/icons/redis.svg" width="32" height="32" alt="Redis" title="Redis" />
+  <br /><br />
+  <sub>Docker Compose · Kubernetes · Helm · Argo CD · GitOps<br />Prometheus · Grafana · PostgreSQL · SQLite · MySQL · Redis</sub>
 </p>
 
 ### <picture><img src="assets/heading-languages.svg" width="28" height="38" align="center" alt="" /></picture> Language Mix
