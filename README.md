@@ -45,9 +45,9 @@ I enjoy building reliable systems and interfaces with a little personality — f
 
 <p align="center">
   <picture>
-    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/QwQBiG/QwQBiG/main/assets/stack-orbit-mobile.svg" />
-    <source media="(max-width: 1100px)" srcset="https://raw.githubusercontent.com/QwQBiG/QwQBiG/main/assets/stack-orbit-compact.svg" />
-    <img src="https://raw.githubusercontent.com/QwQBiG/QwQBiG/main/assets/stack-orbit.svg" width="100%" alt="My Stack: Rust, Go, Zig, Bash, C, C++, Kotlin, Python, TypeScript, JavaScript, HTML, CSS, Astro, React, Vue, Tailwind CSS, Vite, Three.js, Node.js, Gradle, Android Studio, PyTorch, OpenCV, Git, Docker, Kubernetes, Prometheus, Grafana, PostgreSQL, SQLite, MySQL, and Redis." />
+    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/QwQBiG/QwQBiG/main/assets/stack-orbit-color-mobile.svg" />
+    <source media="(max-width: 1100px)" srcset="https://raw.githubusercontent.com/QwQBiG/QwQBiG/main/assets/stack-orbit-color-compact.svg" />
+    <img src="https://raw.githubusercontent.com/QwQBiG/QwQBiG/main/assets/stack-orbit-color.svg" width="100%" alt="My Stack: Rust, Go, Zig, Bash, C, C++, Kotlin, Python, TypeScript, JavaScript, HTML, CSS, Astro, React, Vue, Tailwind CSS, Vite, Three.js, Node.js, Gradle, Android Studio, PyTorch, OpenCV, Git, Docker, Kubernetes, Prometheus, Grafana, PostgreSQL, SQLite, MySQL, and Redis." />
   </picture>
 </p>
 
