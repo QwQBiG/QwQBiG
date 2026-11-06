@@ -45,8 +45,8 @@ I enjoy building reliable systems and interfaces with a little personality — f
 
 <p align="center">
   <picture>
-    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/QwQBiG/QwQBiG/main/assets/stack-cloud-iqwqi-mobile.svg" />
-    <img src="https://raw.githubusercontent.com/QwQBiG/QwQBiG/main/assets/stack-cloud-iqwqi.svg" width="600" alt="My Stack: Rust, Go, Zig, Bash, C, C++, Kotlin, Python, TypeScript, JavaScript, HTML, CSS, Astro, React, Vue, Tailwind CSS, Vite, Three.js, Node.js, Gradle, Android Studio, PyTorch, OpenCV, Git, Docker, Kubernetes, Prometheus, Grafana, PostgreSQL, SQLite, MySQL, and Redis." />
+    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/QwQBiG/QwQBiG/main/assets/stack-cloud-signature-mobile.svg" />
+    <img src="https://raw.githubusercontent.com/QwQBiG/QwQBiG/main/assets/stack-cloud-signature.svg" width="600" alt="My Stack: Rust, Go, Zig, Bash, C, C++, Kotlin, Python, TypeScript, JavaScript, HTML, CSS, Astro, React, Vue, Tailwind CSS, Vite, Three.js, Node.js, Gradle, Android Studio, PyTorch, OpenCV, Git, Docker, Kubernetes, Prometheus, Grafana, PostgreSQL, SQLite, MySQL, and Redis." />
   </picture>
 </p>
 
